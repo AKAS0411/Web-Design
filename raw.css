@@ -1,0 +1,75 @@
+/*Title*/
+h1{
+    text-align: center;
+}
+
+/*Corpo*/
+body{
+    background-color: #F9F1DC;
+}
+
+.logo{
+    text-align: center;
+}
+
+/*Navegação*/
+nav li {
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+}
+
+/*Navegação*/
+nav li a{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #F5BD26;
+    padding: 1px 3cm;
+    text-decoration: none;
+    color: black;
+}
+
+/*Imagem de destaque*/
+.destaque{
+    text-align: center;
+    border: 4px solid #F5BD26;
+    border-left: 4px;
+    border-right: 4px;
+}
+
+/*Lista de imagens*/
+ul{
+    text-align: center;
+}
+
+/*O chef*/
+section h1{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    font-family: garamond, Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 3px solid #F5BD26;
+}
+/*Lorem*/
+section p{
+    margin-top: 3.0em;
+    margin-left: 70em;
+    margin-right: 70em;
+    text-align: center;
+}
+
+.endereço-rodapé {
+    background-color:#fffdf8;
+    text-align: center;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 1.00em;
+    color:black;
+    padding-top: 15px;
+    margin-top: 2.35em;
+}
+
+.endereço-rodapé address {
+    margin: 0;
+    padding: 20px 0;
+}

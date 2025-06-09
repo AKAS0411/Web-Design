@@ -1,0 +1,210 @@
+/*Title*/
+h1{
+    text-align: center;
+}
+
+/*Corpo*/
+body{
+    background-color: #F9F1DC;
+}
+
+.logo{
+    text-align: center;
+}
+
+/*Navegação*/
+nav li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+/*Navegação*/
+nav li a{
+    display: inline-block;
+    border: 2px solid #F5BD26;
+    padding: 1px 3cm;
+    text-decoration: none;
+    color: black;
+}
+
+/*Imagem de destaque*/
+.destaque{
+    text-align: center;
+    border: 4px solid #F5BD26;
+    border-left: 4px;
+    border-right: 4px;
+}
+
+ul{
+    text-align: center;
+}
+
+.Cardápio{
+    font-style: italic;
+    font-size: 50px;
+}
+
+.itens_cardapio{
+    border: 4px solid #F5BD26;
+    padding: 1px 1px 1px 1px; 
+}
+
+.comida1{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text1{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida2{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text2{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida3{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text3{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida4{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text4{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida5{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text5{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida6{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text6{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida7{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text7{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida8{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text8{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida9{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text9{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida10{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text10{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida11{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text11{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.comida12{
+    text-align: left;
+    font-size: 1.0cm;
+    margin-left: 19.5cm;
+}
+.text12{
+    text-align: left;
+    margin-left: 19.5cm;
+    margin-right: 19.5cm;
+    font-size: 0.5cm;
+}
+
+.endereço-rodapé {
+    background-color:#fffdf8;
+    text-align: center;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 1.00em;
+    color:black;
+    padding-top: 15px;
+    margin-top: 2.5em;
+}
+
+.endereço-rodapé address {
+    margin: 0;
+    padding: 20px 0;
+}
