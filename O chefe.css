@@ -46,9 +46,9 @@ ul{
 
 .texto{
     text-align: left;
-    margin-left: 19.5cm;
-    margin-right: 19.5cm;
-    font-size: 0.5cm;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    font-size: 0.76cm;
     border: 4px solid #F5BD26;
     padding-top: 15px;
     padding-bottom: 15px;

@@ -47,7 +47,7 @@ ul{
 .contatos{
     display: inline-block;
     text-align: left;
-    margin-left: 20cm;
+    margin-left: 0.25em;
     font-size: 1.0cm;
     font-family: garamond, Georgia, 'Times New Roman', Times, serif;
     color: black;
@@ -55,7 +55,7 @@ ul{
     margin-bottom: 7.5em;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-right: 812px;
+    padding-right: 810px;
 }
 
 .endereço-rodapé {
